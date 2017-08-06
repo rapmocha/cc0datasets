@@ -69,3 +69,12 @@ See:
 - [Image Module — Pillow (PIL Fork) 3.1.2 documentation](http://pillow.readthedocs.io/en/3.1.x/reference/Image.html#create-thumbnails)
 - [Index of Packages : Python Package Index](https://pypi.python.org/pypi/Pillow)
 
+### png
+
+1. antinous_mondragone.png
+    - [Antinous-bysten i Louvre, Nordisk familjebok - File:Antinous Mandragone profil.jpg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Antinous_Mandragone_profil.jpg#/media/File:Antinous-bysten_i_Louvre,_Nordisk_familjebok.png)
+1. wappen.png
+    - [Wappen Mörsch 1919-1987 - File:Wappen Mörsch 1919-1987.png - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wappen_M%C3%B6rsch_1919-1987.png?uselang=ja#/media/File:Wappen_M%C3%B6rsch_1919-1987.png)
+1. keyboard.png
+    - [test 0514 | rapmocha | Flickr](https://www.flickr.com/photos/140867404@N05/26922373761/in/dateposted-public/)
+
